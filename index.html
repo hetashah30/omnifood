@@ -559,21 +559,21 @@
             <p class="cta-text">Healthy, tasty and hassle-free meals are waiting for you. Start eating well today. You
               can cancel or pause anytime. And the first meal is on us!</p>
 
-            <form class="cta-form" action="#">
+            <form class="cta-form" name="sign-up" netlify>
 
               <div>
                 <label for="full-name">Enter your name:</label>
-                <input id="full-name" type="text" placeholder="John Smith" required>
+                <input id="full-name" type="text" name="full-name" placeholder="John Smith" required>
               </div>
 
               <div>
                 <label for="email">Enter your email:</label>
-                <input id="email" type="email" placeholder="you@example.com" required>
+                <input id="email" type="email" name="email" placeholder="you@example.com" required>
               </div>
 
               <div>
                 <label for="select-where">Where did you hear about us?</label>
-                <select name="select-where" id="select-where" required>
+                <select id="select-where" name="select-where" required>
                   <option value="" selected disabled>Please choose one option</option>
                   <option value="friends">Friends and family</option>
                   <option value="youtube">YouTube video</option>
