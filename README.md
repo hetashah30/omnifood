@@ -1,4 +1,4 @@
-![{F8D98413-CF01-4E42-923E-F285C6B48E25}](https://github.com/user-attachments/assets/8f9f8c7f-db55-4f19-b315-1d0dc789addb)# Omnifood - Never Cook Again 🍽️
+# Omnifood - Never Cook Again 🍽️
 
 A fully responsive and interactive landing page for a fictional AI-powered food delivery service called **Omnifood**. Designed with a modern UI/UX approach to showcase key features, testimonials, pricing plans, and a working call-to-action section.
 
