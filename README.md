@@ -25,6 +25,7 @@ A fully responsive and interactive landing page for a fictional AI-powered food 
 - **JavaScript (ES6)** – DOM manipulation, event handling
 - **Netlify** – Hosting and backend form submission
 
+## 📹 Click below to Watch Project Demo
 
 [![Watch the demo](https://img.youtube.com/vi/RwQor_o5UNw/maxresdefault.jpg)](https://youtu.be/RwQor_o5UNw)
 
